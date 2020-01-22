@@ -1,4 +1,4 @@
 var mysql = require('mysql');
 module.exports = connection = mysql.createConnection(
-  process.env.CLEARDB_DATABASE_URL
+  process.env.YOUR_DEPLOYMENT_DB_VARIABLE
 );
