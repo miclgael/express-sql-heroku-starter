@@ -1,5 +1,7 @@
 # express-sql-heroku-starter
 
+> ⚠️ I'm archiving this 2023-01-23. Reference these files at your own risk!
+
 If you're not at the point where you're deploying to heroku, or using the `heroku local web` command. 
 
 Find these lines in `config/config.js`
